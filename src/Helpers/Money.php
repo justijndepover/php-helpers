@@ -1,6 +1,6 @@
 <?php
 
-namespace \JustijnDepover\Helpers;
+namespace JustijnDepover\Helpers;
 
 class Money
 {
