@@ -1,0 +1,27 @@
+{
+    "name": "justijndepover/helpers",
+    "description": "Helpful php functions",
+    "keywords":[
+        "justijndepover",
+        "php",
+        "helpers"
+    ],
+    "homepage": "https://github.com/justijndepover/php-helpers",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Justijn Depover",
+            "email": "justijndepover@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "JustijnDepover\\Helpers\\": "src/Helpers/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "require": {}
+}
